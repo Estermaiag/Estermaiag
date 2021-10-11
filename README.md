@@ -1,4 +1,4 @@
 - Eu me chamo Ester Maia
 - Estou cursando a area de TI na UNA Betim
-- Também tenho conhecimentos na área de web designer, designer gráfico, etc
+- Também tenho conhecimentos na área de designer gráfico
 - Atualmente estou trabalhando como web designer na Mapp Sistemas
